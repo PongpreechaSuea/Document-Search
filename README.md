@@ -18,8 +18,8 @@ This Document Search Application is a powerful tool that allows users to search 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PongpreechaSuea/Document-Search.git
-cd Document-Search
+git clone https://github.com/PongpreechaSuea/Text-Search-Document.git
+cd Text-Search-Document
 ```
 
 2. Create a virtual environment (optional but recommended):
