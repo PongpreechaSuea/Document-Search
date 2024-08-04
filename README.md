@@ -54,6 +54,10 @@ python run.py
 
 ## Example
 
+```
+bitcoin คืออะไร?
+dogecoin คือเหรียญอะไร สามารถทำอะไรได้บ้าง
+```
 
 <p align="center">
   <img src="./assets/image1.png" alt="GUI" width="800"/>
