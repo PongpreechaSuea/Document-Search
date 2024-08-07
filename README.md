@@ -54,11 +54,23 @@ python run.py
 
 ## Example
 
-```
-bitcoin คืออะไร?
-dogecoin คือเหรียญอะไร สามารถทำอะไรได้บ้าง
-```
+### DATA EXAMPLE
+
+<p align="center">
+  <img src="./assets/image2.png" alt="GUI" width="800"/>
+</p>
+
+
+
+### INTERFACE
 
 <p align="center">
   <img src="./assets/image1.png" alt="GUI" width="800"/>
+</p>
+
+
+### RESULTS
+
+<p align="center">
+  <img src="./assets/image3.png" alt="GUI" width="800"/>
 </p>
